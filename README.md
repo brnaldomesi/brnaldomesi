@@ -1,8 +1,8 @@
 ### Smart contract developer and full-stack engineer
 
 - Smart contract development
-- Chain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, Tezos)
-- Solidty & Rust
+- Chain (Flow, Ethereum, Casper, Binance, Polygon, Avalanche, Solana, Tezos)
+- Cadence & Solidty & Rust
 - Wallets & Clients (Ganache, Metamask, Exodus, Mist, Parity, Geth, MEW)
 - dApp (Ethers, Web3, infura, Hardhat, MIST/Remix)
 - FT & NFT Token and coin development
