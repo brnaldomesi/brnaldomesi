@@ -13,8 +13,8 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="images/icons/flow.png"></code>
 <code><img height="20" src="images/icons/ethereum.png"></code>
+<code><img height="20" src="images/icons/flow.png"></code>
 <code><img height="20" src="images/icons/solana.png"></code>
 <code><img height="20" src="images/icons/tezos.png"></code>
 <code><img height="20" src="images/icons/solidity.png"></code>
