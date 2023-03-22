@@ -1,14 +1,14 @@
 ### Smart contract & DEFI specialist and full-stack engineer
 
 - Smart contract development
-- Chain (Flow, Ethereum, Casper, Binance, Polygon, Avalanche, Solana, Tezos)
-- Cadence & Solidty & Rust
+- Chain (Ethereum, Flow, Binance, Polygon, Casper, Avalanche, Solana, Tezos ...)
+- Solidty & Cadence & Rust
 - Wallets & Clients (Ganache, Metamask, Exodus, Mist, Parity, Geth, MEW)
 - dApp (Ethers, Web3, infura, Hardhat, MIST/Remix)
 - FT & NFT Token and coin development
 - LGE, ICO, IDO, Presale, Dex, ERC-(20, 721, 1155, 223) & Audit
 - React / Vue / Angular
-- Django / Laravel / Node.js / Ruby on Rails
+- Laravel / Django / Node.js / Ruby on Rails
 - TypeScript, Bootstrap, TailWind
 
 **Languages and Tools:**
