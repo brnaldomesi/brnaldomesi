@@ -8,7 +8,7 @@
 - FT & NFT Token and coin development
 - LGE, ICO, IDO, Presale, Dex, ERC-(20, 721, 1155, 223) & Audit
 - React / Vue / Angular / TypeScript
-- Bootstrap, TailWind
+- Bootstrap / Tailwind
 - GraphQL / Restful API
 - Laravel / Django / Node.js / Ruby on Rails
 - SQL / NoSQL
