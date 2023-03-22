@@ -1,4 +1,4 @@
-### Smart contract developer and full-stack engineer
+### Smart contract & DEFI specialist and full-stack engineer
 
 - Smart contract development
 - Chain (Flow, Ethereum, Casper, Binance, Polygon, Avalanche, Solana, Tezos)
