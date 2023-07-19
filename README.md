@@ -13,7 +13,7 @@
 - Laravel / Django / Node.js / Ruby on Rails
 - SQL / NoSQL
 
-**Languages and Tools:**
+**Languages and Frameworks:**
 
 <code><img height="40" src="images/icons/ethereum.png"></code>
 <code><img height="40" src="images/icons/flow.png"></code>
