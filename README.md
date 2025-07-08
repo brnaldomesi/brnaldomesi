@@ -1,4 +1,11 @@
-### Smart contract & DEFI specialist and full-stack engineer
+### Fullstack AI engineer
+
+- Auotomate tasks, Optimize processes, Data-driven decisions, Prediction
+- ML, DL, Neural Networks, CV, NLP
+- Chatbots, Recommendation engines, Image recognition
+- Training and fine-tuning models
+- Open AI, ChatGPT API, TensorFlow, pyTorch, Scikit-learn, OpenCV, Pandas, NumPy
+- Python, Java, C/C++
 
 - Smart contract development
 - Chain (Ethereum, Flow, Binance, Polygon, Casper, Avalanche, Solana, Tezos ...)
